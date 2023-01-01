@@ -1,3 +1,9 @@
+# CRUD
+
+<img width="1557" alt="Captura de Tela 2022-12-31 às 19 15 50" src="https://user-images.githubusercontent.com/75143575/210169730-a279cb29-da38-412e-a388-73318cf8f1b2.png">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
